@@ -6,10 +6,10 @@ Live Demo : https://react-ass-c1719.web.app/
 
 For using this project just clone the repo and run the commands given below : -  
 
-git clone https://github.com/amitahya108/react-ass
-cd react-ass
-npm install
-npm start
+git clone https://github.com/amitahya108/react-ass <br>
+cd react-ass  <br>
+npm install <br>
+npm start <br>
 
 
 Project Covers All The Requirements : - 
