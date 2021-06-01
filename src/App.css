@@ -1,0 +1,54 @@
+.App{
+  margin:16px;
+  background-color: #eee;
+
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(500px,1fr));
+  grid-gap: 16px;
+}
+
+
+.search_bar{
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+.search_bar>h4{
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.search_bar>input{
+  font-size: 16px;
+}
+
+.comp{
+  background-color: #fff;
+  padding: 16px;
+
+}
+
+.image{
+  width: 200px;
+  height: 200px;
+  transition: transform 0.5s;
+  cursor: pointer;
+}
+
+
+.image:hover{
+  transform: scale(1.08);
+
+}
+
+
+.load_more>h2{
+  text-align: center;
+  font-size:16px;
+  text-transform: uppercase;
+  color: #666;
+  cursor:pointer;
+}
